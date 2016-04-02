@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[prixgeorgesnicole]]></title>
         <description><![CDATA[prixgeorgesnicole]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prixgeorgesnicole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 22:52:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 22:52:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prixgeorgesnicole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f977475-d9ef-476d-b74f-66007955fe0b.png"></article>]]></description>
+            <link>urn:uuid:e65b3cf3-fe7f-43e7-a021-54d63fd73624</link>
+            <guid isPermaLink="false">8191301e-285e-4b47-b8fd-f1e7a35d3f2c</guid>
+            <pubDate>Sat, 02 Apr 2016 22:51:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trst2]]></title>
             <description><![CDATA[<article><h1>Trst2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5735c10d-8569-4579-869f-faad0922cb29.png"></article>]]></description>
