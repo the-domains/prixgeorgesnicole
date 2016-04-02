@@ -1,7 +1,7 @@
 name: prixgeorgesnicole
 favicon: null
-layout_spectrum: 0.44014505902305245
-typography_spectrum: 0.50973
+layout_spectrum: 0.25286
+typography_spectrum: 0.36042
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.3957157717086375
-  lightness: 0.8140366759616882
-  saturation: 0.6875
-  rhythmicContrast: 0.23938579158857465
+  brandStrength: 0.6875
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
