@@ -1,0 +1,28 @@
+name: prixgeorgesnicole
+favicon: null
+layout_spectrum: 0.44014505902305245
+typography_spectrum: 0.8420578178483993
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3957157717086375
+  lightness: 0.8140366759616882
+  saturation: 0.99545997264795
+  rhythmicContrast: 0.23938579158857465
+purpose: []
