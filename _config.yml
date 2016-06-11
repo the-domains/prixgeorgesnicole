@@ -1,9 +1,7 @@
-favicon: null
 name: prixgeorgesnicole
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.06625
+typography_spectrum: 0.36042
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3125
-  brandStrength: 0.6875
-  rhythmicContrast: 0.75
   brandColors:
     - '#000000'
     - '#000000'
     - '#000000'
     - '#000000'
     - '#000000'
-  lightness: 0.625
-typography_spectrum: 0.36042
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.9784946
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 1
+purpose: []
