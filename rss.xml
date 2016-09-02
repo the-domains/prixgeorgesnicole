@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Word of the day]]></title>
-        <description><![CDATA[Word of the day]]></description>
+        <title><![CDATA[Prix Georges Nicole]]></title>
+        <description><![CDATA[Prix Georges Nicole]]></description>
         <link>https://thegrid.ai/prixgeorgesnicole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 07:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 11:07:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/prixgeorgesnicole/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/534c9e0c-286b-4f31-951b-c7e40a20851b.jpg" alt="Test 1">]]></description>
-            <link>https://thegrid.ai/prixgeorgesnicole/like-a-blog/index.html</link>
-            <guid isPermaLink="false">06004324-cdb3-49bc-8df4-f4cffdb61865</guid>
-            <pubDate>Wed, 31 Aug 2016 07:37:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f977475-d9ef-476d-b74f-66007955fe0b.png"></article>]]></description>
