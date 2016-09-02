@@ -28,6 +28,9 @@ navigation:
   - name: First tab
     id: 0617dd5a-78ea-4f2f-ac48-95067f613830
     type: content
+  - name: Test 2
+    id: 8191301e-285e-4b47-b8fd-f1e7a35d3f2c
+    type: content
 favicon: null
 collections:
   - index:
