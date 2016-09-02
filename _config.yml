@@ -44,6 +44,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Word of the day
+title: Prix Georges Nicole
 description: This is a test
 purpose: []
