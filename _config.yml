@@ -1,7 +1,34 @@
-name: prixgeorgesnicole
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.8854
+color:
+  brandColors:
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: prixgeorgesnicole
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: First tab
+    id: 0617dd5a-78ea-4f2f-ac48-95067f613830
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +41,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.75
-  lightness: 0.75
-  saturation: 0.4375
-  rhythmicContrast: 1
 purpose: []
