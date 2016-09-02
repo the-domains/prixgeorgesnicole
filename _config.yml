@@ -45,4 +45,5 @@ collections:
       format: rss
       number: 10
 title: Word of the day
+description: This is a test
 purpose: []
